@@ -41,6 +41,6 @@ var author = "None"
     }
     
     func knownDestinations() -> [String] {
-       return ["St. Louis", "Phoenix", "Denver", "SLC"]
+       return ["St. Louis", "Phoenix", "Denver", "SLC","SF"]
     }
 }
